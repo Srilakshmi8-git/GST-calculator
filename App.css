@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #be5b98;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(15, 55, 118);
+  font-size: 30px;
+  font-style: bold;
+  font-family: cursive, lucida handwriting;
+  margin: 20px;
+}
+.App-body{
+  flex-direction: row;
+}
+button{
+  color: black;
+  text-decoration-color: bisque;
+
+}
